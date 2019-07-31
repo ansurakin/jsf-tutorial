@@ -25,3 +25,5 @@ hs_err_pid*
 /jsf-primefaces-datatable/target/
 /jsf-primefaces-themes/target/
 /jsf-primefaces-spring-security/target/
+/jsf-primefaces-redirect/target/
+/jsf-primefaces-welcome-page-redirect/target/
