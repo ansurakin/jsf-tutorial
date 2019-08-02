@@ -27,3 +27,10 @@ hs_err_pid*
 /jsf-primefaces-spring-security/target/
 /jsf-primefaces-redirect/target/
 /jsf-primefaces-welcome-page-redirect/target/
+/jsf-primefaces-unit-testing-selenium/target/
+/jsf-primefaces-unit-testing-selenium/nbproject/
+/jsf-primefaces-jetty/target/
+/jsf-primefaces-wildfly/target/
+/jsf-primefaces-apache-tomcat/target/
+/jsf-primefaces-websphere-application-server/target/
+/jsf-primefaces-login-servlet-filter/target/
